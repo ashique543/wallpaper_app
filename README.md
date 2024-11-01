@@ -1,16 +1,35 @@
-# wallpaper_app
+# Wallpaper Android App using Flutter
 
-A new Flutter project.
+Built an Android app for viewing, downloading, and setting wallpapers, with easy-to-use features for managing wallpapers.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td>Home Screen ---></td>
+    <td>Wallpaper Prevew ---></td>
+    <td>Set Wallpaper </td>
+  </tr>
+  <tr>
+    <td><img src="Readme Images\Homepage.jpg"></td>
+    <td><img src="Readme Images\Wallpaper_Prevew.jpg"></td>
+    <td><img src="Readme Images\Set_Wallpaper.jpg"></td>
+  </tr>
 
-A few resources to get you started if this is your first Flutter project:
+  <tr>
+    <td>Category Screen ---></td>
+    <td>When Clicked on Nature</td>
+  </tr>
+  <tr>
+    <td><img src="Readme Images\Category_Page.jpg"></td>
+    <td><img src="Readme Images\Nature.jpg"></td>
+  </tr>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <tr>
+    <td>Explore Page</td>
+  </tr>
+  <tr>
+    <td><img src="Readme Images\Explore.jpg"></td>
+  </tr>
+  <tr><td>In this page you can scroll the wallpaper just like instagaram reels</td></tr>
+ </table>
